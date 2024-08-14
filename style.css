@@ -249,6 +249,18 @@ header{
         ;
     }
 
+    .section-6{
+        width: 100%;
+        margin: 0 auto;
+        /* margin-bottom: 70px; */
+    }
+      
+    .section-6-container{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        column-gap: 20px;
+    }
+
     
 
      
